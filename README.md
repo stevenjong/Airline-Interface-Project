@@ -44,4 +44,5 @@ Open the frontend at http://localhost:3000
 ## Work in progress
 - Sign up/Log in page
 - Role authentication
-- More routers
+- Implement leftover routers
+- Add routers
