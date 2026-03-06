@@ -54,6 +54,7 @@ PGPASSWORD=password psql -h localhost -p 5433 -U postgres -d ifec_db -f airlinep
 
 **Open the frontend at** http://localhost:3000
 
+<br>
 
 ## Work in progress
 - Sign up/Log in page
