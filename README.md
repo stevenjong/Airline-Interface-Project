@@ -15,17 +15,17 @@ A full-stack In-Flight Entertainment and Connectivity (IFEC) management system b
 
 ## Installation
 In terminal:
+
 Clone this repository
 ```
 git clone https://github.com/stevenjong/Airline-Interface-Project.git
 ```
 
 
-From the project root, run:
+From the project root, run (Note: make sure Docker Desktop is running):
 ```
 docker-compose up --build
 ```
-(Note: make sure Docker Desktop is running)
 
 
 Fill the database with placeholder values
