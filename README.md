@@ -64,4 +64,5 @@ PGPASSWORD=password psql -h localhost -p 5433 -U postgres -d ifec_db -f airlinep
 - Sign up/Log in page
 - Role authentication
 - Implement leftover routers
-- Add routers
+- Add more endpoints
+- Polish interface
