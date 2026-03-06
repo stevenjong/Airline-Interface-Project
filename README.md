@@ -1,7 +1,8 @@
 # Airline Interface Project
-````
+
 A full-stack In-Flight Entertainment and Connectivity (IFEC) management system built with TypeScript, React, Python, FastAPI, and PostgreSQL.
-````
+
+<br>
 
 ## Features
 - Aircraft Dashboard
