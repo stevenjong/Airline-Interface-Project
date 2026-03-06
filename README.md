@@ -38,10 +38,12 @@ git clone https://github.com/stevenjong/Airline-Interface-Project.git
 ```
 
 
-From the project root, run (note: make sure Docker Desktop is running):
+From the project root, run:
 ```
 docker-compose up --build
 ```
+(note: make sure Docker Desktop is running)
+
 
 
 Fill the database with placeholder values
