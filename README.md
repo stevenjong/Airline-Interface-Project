@@ -35,6 +35,7 @@ A full-stack In-Flight Entertainment and Connectivity (IFEC) management system b
 ```
 git clone https://github.com/stevenjong/Airline-Interface-Project.git
 ```
+
 <br>
 
 **From the project root, run:**
@@ -49,9 +50,9 @@ docker-compose up --build
 ```
 PGPASSWORD=password psql -h localhost -p 5433 -U postgres -d ifec_db -f airlineproject-backend/seed.sql
 ```
-
 <br>
-** Open the frontend at http://localhost:3000 **
+
+**Open the frontend at http://localhost:3000**
 
 
 ## Work in progress
