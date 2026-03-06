@@ -1,13 +1,15 @@
 # Airline Interface Project
 A full-stack In-Flight Entertainment and Connectivity (IFEC) management system built with TypeScript, React, Python, FastAPI, and PostgreSQL.
 
+<br>
+
 ## Features
 - Aircraft Dashboard
 - Content Manager
 - Distribution Manager
 - Add/Delete Page
 
-
+<br>
 
 ## Stack
 - Frontend: React, Typescript
@@ -28,6 +30,7 @@ A full-stack In-Flight Entertainment and Connectivity (IFEC) management system b
 
   [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
+<br>
 
 ## Installation
 
