@@ -7,11 +7,15 @@ A full-stack In-Flight Entertainment and Connectivity (IFEC) management system b
 - Distribution Manager
 - Add/Delete Page
 
+
+
 ## Stack
 - Frontend: React, Typescript
 - Backend: FastAPI, Python
 - Database: PostgreSQL
 - Containerization: Docker
+
+
 
 ## Installation
 **In terminal:**
@@ -22,7 +26,7 @@ git clone https://github.com/stevenjong/Airline-Interface-Project.git
 ```
 
 
-From the project root, run (Note: make sure Docker Desktop is running):
+From the project root, run (note: make sure Docker Desktop is running):
 ```
 docker-compose up --build
 ```
