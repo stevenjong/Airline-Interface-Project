@@ -14,7 +14,7 @@ A full-stack In-Flight Entertainment and Connectivity (IFEC) management system b
 - Containerization: Docker
 
 ## Installation
-In terminal:
+**In terminal:**
 
 Clone this repository
 ```
