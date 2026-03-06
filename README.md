@@ -1,19 +1,19 @@
-## Airline Interface Project
+# Airline Interface Project
 A full-stack In-Flight Entertainment and Connectivity (IFEC) management system built with TypeScript, React, Python, FastAPI, and PostgreSQL.
 
-# Features
+## Features
 - Aircraft Dashboard
 - Content Manager
 - Distribution Manager
 - Add/Delete Page
 
-# Stack
+## Stack
 - Frontend: React, Typescript
 - Backend: FastAPI, Python
 - Database: PostgreSQL
 - Containerization: Docker
 
-# Installation
+## Installation
 - In terminal:
 Clone this repository
 `git clone https://github.com/stevenjong/Airline-Interface-Project.git`
